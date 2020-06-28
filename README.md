@@ -23,4 +23,10 @@ There are several .zip files that you should have downloaded as well. These are 
 
 ## Step 4: Connect to the Server
 
-Once you start up the Forge version of Minecraft, go to multiplayer and add a new server. At the time of writing this, the address of the server is coomlord.santinacloud.com.
+Once you start up the Forge version of Minecraft, go to multiplayer and add a new server. At the time of writing this, the address of the server is ********************. Type that in and hopefully the server is online and you can connect.
+
+## Step 5: Configure Shaders and add Resource Packs
+
+After you connect to the server, you should go into Settings>Options>Resource Packs and Tissou's Zombie Pack to the Selected Resource Packs. This will make the Zombies look much "scarier" rather than having the token minecraft look. They will also moan and groan more "zombie like". Then go into Settings>Video Settings>Shaders and select Chocapic13_V8_Ultra.zip. Your screen will freeze for a second as it is loading. Once its done go into Shader Options>Atmospherics>Fog_Densities and increase the Atmospheric_Density to 5.0
+
+## Step 6: Play
